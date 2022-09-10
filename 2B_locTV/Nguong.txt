@@ -1,0 +1,13 @@
+
+Phone_f1
+meanV = 0.1544 stdV = 0.0844
+meanU = 0.5022 stdU = 0.1357
+Phone_m1
+meanV = 0.1850 stdV = 0.0847
+meanU = 0.3704 stdU = 0.0764
+Studio_F1
+meanV = 0.1513 stdV = 0.0939 
+meanU = 0.4762 stdU = 0.083
+Studio_M1
+meanV = 0.2331 stdV = 0.1014
+meanU = 0.4546 stdU = 0.1091
